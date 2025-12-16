@@ -19,7 +19,7 @@ By the end of 30 days, this plan ensures:
 
 ## ⏱️ Daily Time Commitment
 
-**2.5 – 3 hours/day (M.Tech friendly)**
+**2.5 – 3 hours/day**
 
 | Activity                  | Time      |
 | ------------------------- | --------- |
@@ -347,17 +347,9 @@ By the end of 30 days, this plan ensures:
 
 ---
 
-## 🔥 Final Note
-
-Most candidates **prepare**.
-
-Very few **execute consistently**.
-
-If you follow this plan **without skipping days**, ₹14 LPA is not a dream — it is a **timeline**.
-
----
 
 **Author**: Kavya Krishna Chinchankar
 **Track**: Sony / Product-Based Companies (SDE)
+
 
 
