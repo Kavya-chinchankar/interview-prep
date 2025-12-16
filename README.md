@@ -1,6 +1,6 @@
 # 🚀 SONY-TARGETED 30-DAY DSA + PROJECT EXECUTION PLAN (Python)
 
-This repository documents a **30-day, execution-focused preparation plan** designed specifically for **Sony and similar ₹14+ LPA product companies**.
+This repository documents a **30-day, execution-focused preparation plan** designed specifically for **Sony and similar product companies**.
 
 The goal is not just DSA practice, but **thinking, explaining, and building like an SDE**, with a strong emphasis on **backend systems and security-oriented projects**.
 
@@ -353,3 +353,5 @@ By the end of 30 days, this plan ensures:
 
 
 
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
