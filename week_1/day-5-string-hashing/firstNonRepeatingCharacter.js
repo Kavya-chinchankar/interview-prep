@@ -1,0 +1,21 @@
+// Program: firstNonRepeatingCharacter.js
+
+function firstUniqChar(s) {
+    const freq = {};
+
+    // First pass
+    for (let ch of s) {
+        freq[ch] = (freq[ch] || 0) + 1;
+    }
+
+    // Second pass
+    for (let i = 0; i < s.length; i++) {
+        if (freq[s[i]] === 1) return i;
+    }
+
+    return -1;
+}
+
+// INPUT
+const s = "leetcode";
+console.log(firstUniqChar(s)); // Output: 0
