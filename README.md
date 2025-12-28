@@ -1,4 +1,4 @@
-# 🚀 SONY-TARGETED 30-DAY DSA + PROJECT EXECUTION PLAN (Python)
+# 🚀 SONY-TARGETED 30-DAY DSA + PROJECT EXECUTION PLAN (Python
 
 This repository documents a **30-day, execution-focused preparation plan** designed specifically for **Sony and similar product companies**.
 
