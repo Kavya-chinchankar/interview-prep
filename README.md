@@ -342,8 +342,7 @@ By the end of 30 days, this plan ensures:
 * Clear Sony Online Test level
 * Confident DSA explanations
 * Strong backend + security project
-* Resume-ready GitHub profile
-* Interview-ready mindset
+
 
 ---
 
